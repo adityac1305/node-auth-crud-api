@@ -1,0 +1,4 @@
+node_modules
+.env
+info.txt
+NodeJS-Auth.postman_collection.json
